@@ -23,10 +23,10 @@ pageClass: device-page
 | White-label | Aqara WL-S02D, Yandex YNDX-00521 |
 
 
-<!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
+## Notes
 
-
-<!-- Notes END: Do not edit below this line -->
+## Pairing
+Long press of 5s to reset/connect to network.
 
 
 ## OTA updates
